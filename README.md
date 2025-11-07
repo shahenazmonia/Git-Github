@@ -24,6 +24,8 @@ Keep your local and remote repositories updated
 
 #### How to use VS Code GUI
 
+<img width="1390" height="1084" alt="Screenshot 2025-11-07 at 8 52 36 PM" src="https://github.com/user-attachments/assets/60e4cb54-c294-4aed-83ba-776e83e7d290" />
+
 ### Teamwork | How to use branches
 
 ### Feature-Based Branching
