@@ -4,13 +4,13 @@
 Git is a version control system. It tracks changes in your code, allows you to manage your local or remote repositories, and makes it easy to collaborate within a team. [[Doc](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)]
 
 #### How to manage your work using Git & GitHub
-Create a repository on GitHub
-Generate SSH key
-Clone the repo locally
-Use branches
-Use Git flow
-Track your work
-Keep your local and remote repositories updated
+- Create a repository on GitHub
+- Generate SSH key
+- Clone the repo locally
+- Use branches
+- Use Git flow
+- Track your work
+- Keep your local and remote repositories updated
 
 #### Most used Git commands
 - git clone <repo>
