@@ -51,7 +51,7 @@ A branch is a separate line of development. It allows you to work on new feature
     ##### Steps to manage your work
     - Create a new branch
     - Push your work
-    - Open a PR with a clear title, description (add a screenshot or video), and labels/tags
+    - Open a PR with a clear title, description (add a screenshot or video), and labels
     - Assign a reviewer for your code
     - Review your teammate's code
     - Approve the PR
