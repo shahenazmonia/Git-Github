@@ -18,8 +18,6 @@ Keep your local and remote repositories updated
 - git commit -m "your-work-message"
 - git push
 - git pull
-- git checkout -b "branch-name"
-- git merge
 
 
 #### How to use VS Code GUI
@@ -27,6 +25,16 @@ Keep your local and remote repositories updated
 <img width="1390" height="1084" alt="Screenshot 2025-11-07 at 8 52 36 PM" src="https://github.com/user-attachments/assets/60e4cb54-c294-4aed-83ba-776e83e7d290" />
 
 ### Teamwork | How to use branches
+A branch is a separate line of development. It allows you to work on new features or fixes without affecting the main codebase. The default branch is usually main
+
+- git checkout -b "branch-name"
+
+- ##### Best Practice fro Naming Branches
+    - add: A new feature.
+    - change: Generic changes in the code base, anything that is related to maintaining or improving the code.
+    - fix: A bug fix.
+    - test: Adding missing tests or correcting existing tests.
+
 
 ### Feature-Based Branching
 
