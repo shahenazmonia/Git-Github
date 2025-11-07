@@ -22,10 +22,10 @@ Keep your local and remote repositories updated
 - git merge
 
 
-#### How to use VS code GUI
+#### How to use VS Code GUI
 
-### Team work | How to use branches
+### Teamwork | How to use branches
 
-### Feature based branch 
+### Feature-Based Branching
 
 ### 
