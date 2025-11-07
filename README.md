@@ -62,3 +62,5 @@ A branch is a separate line of development. It allows you to work on new feature
 - Use projects
 - Use issues
 - Use branch rules
+<img width="1146" height="711" alt="Screenshot 2025-11-08 at 12 18 06 AM" src="https://github.com/user-attachments/assets/e1f5f8a6-6571-4ed3-9097-ea2705b5f985" />
+
