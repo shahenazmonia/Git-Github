@@ -36,6 +36,15 @@ A branch is a separate line of development. It allows you to work on new feature
     - test: Adding missing tests or correcting existing tests.
 
 
-### Feature-Based Branching
+    #### Feature-Based Branching
+    It is a common Git workflow strategy where each new feature or improvement in your project gets its own separate branch
 
+        main
+        |
+        *---* release-1.0
+                \
+                *---* develop
+                    \
+                        *---* feature-login
+                        *---* feature-cart
 ### 
