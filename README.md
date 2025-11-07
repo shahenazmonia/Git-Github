@@ -1,7 +1,7 @@
 # Version Control System | Git-Github
 
 ### What is Git?
-Git is a version control system. It tracks changes in your code, allows you to manage your local or remote repositories, and makes it easy to collaborate within a team.
+Git is a version control system. It tracks changes in your code, allows you to manage your local or remote repositories, and makes it easy to collaborate within a team. [[Doc](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)]
 
 #### How to manage your work using Git & Github
 Create a repository on Github
